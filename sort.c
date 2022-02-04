@@ -12,7 +12,7 @@ para n +- 1 até 5 faça
 início
 // laço que percorre da primeira à
 // penúltima posição do vetor
-para i +- O até 3 faça
+for i +- O até 3 faça
   início
   if (X[i] > X[i+ ll)
 então início
@@ -27,4 +27,4 @@ for i +- O até 4 faça
   início
   printf i+l," 0 número : " , X[i]
 end
-fim_alg o ritmo . 
+fim_algoritmo . 
