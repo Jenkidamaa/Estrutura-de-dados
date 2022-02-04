@@ -3,7 +3,7 @@ declare X[5], n , i , aux numérico
 // carregando os números no vetor
 for i +- until  4 faça
   init
-  printf "Digite o ", i+l, " 0 número :
+  printf("Digite o ", i+l, " 0 número :")
   printf X[i]
 fim
 // ordenando de forma crescente
@@ -25,6 +25,6 @@ end
 // mostrando o vetor ordenado
 for i +- O até 4 faça
   início
-  printf i+l," 0 número : " , X[i]
+  printf( i+l," 0 número : " , X[i])
 end
 fim_algoritmo . 
